@@ -15,6 +15,9 @@
 1. To login as a student, use ID = student1 and PASSWORD = student1
 1. To login as a recruiter, use ID = recruiter2 and PASSWORD = recruiter2
 
-# Student Demo
+# Demo
+### Student
+<img src="/student-demo.gif">
 
-# Recruiter Demo
+### Recruiter
+<img src="/recruiter-demo.gif">
