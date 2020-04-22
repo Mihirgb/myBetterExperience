@@ -1,2 +1,2 @@
 # myBetterExperience
-a job searching app built with MERN + Google APIs
+A job searching app built with MERN + Google APIs
