@@ -17,7 +17,7 @@
 
 # Demo
 ### Student
-<img src="/student-demo.gif">
+<img src="/student-demo.gif" width="100%">
 
 ### Recruiter
-<img src="/recruiter-demo.gif">
+<img src="/recruiter-demo.gif" width="100%">
