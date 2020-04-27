@@ -23,6 +23,18 @@
 1. To login as a student, use ID = student1 and PASSWORD = student1
 2. To login as a recruiter, use ID = recruiter2 and PASSWORD = recruiter2
 
+### Features
+#### Students
+  - Create and update profile
+  - Upload a pdf resume to a job
+  - Write a review of a company
+  - View jobs, sort jobs by deadline date, etc.
+#### Recruiters
+  - Create and update profile
+  - Post and delete a job
+  - View applicants with their resumes
+  - View jobs, sort jobs by deadline date, etc.
+
 # 4. Demo
 ## 1) Student
 <img src="/student-demo.gif" width="100%">
