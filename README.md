@@ -43,7 +43,12 @@
   - Post and delete a job
   - View applicants with their resumes
   - View jobs, sort jobs by deadline date, etc.
-
+### 3) Functionalities
+  - Form Validation
+  - Responsive Design
+  - Navigation State Update
+  - Google Maps Search
+  - Application Deadline & Document Validation
 # 4. Demo
 ### 1) Student
 <img src="/student-demo.gif" width="100%">
