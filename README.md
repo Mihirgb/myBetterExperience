@@ -1,7 +1,4 @@
-# July 2020 ReFactoring Goals
-1. More cleaner and minimalistic UIs
-2. Better State Management
-3. More Functionality - in areas of job application, job searching on Google Maps, etc.
+The main focus of this application is on functionalities.
 
 <hr>
 
