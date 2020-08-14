@@ -46,9 +46,4 @@ The main focus of this application is on functionalities.
   - Navigation State Update
   - Google Maps Search
   - Application Deadline & Document Validation
-# 4. Demo
-### 1) Student
-<img src="/student-demo.gif" width="100%">
 
-### 2) Recruiter
-<img src="/recruiter-demo.gif" width="100%">
