@@ -4,6 +4,10 @@
 - [ ] Redesign UI
 - [ ] Improve Form Handling & Validation
 - [ ] Add more functionalities
+  - Job Tracking Dashboard
+  - Chat/Message System
+  - Student Resource Bank (resume, cover letter, interview tips)
+
 
 <hr>
 
