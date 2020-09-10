@@ -1,4 +1,9 @@
-The main focus of this application is on functionalities.
+# 2020 Refactoring Plan
+- [ ] Implement session properly
+- [ ] Reorganize component tree using Hooks
+- [ ] Redesign UI
+- [ ] Improve Form Handling & Validation
+- [ ] Add more functionalities
 
 <hr>
 
