@@ -1,15 +1,3 @@
-# 2020 Refactoring Plan
-- [ ] Implement session properly
-- [ ] Reorganize component tree using Hooks
-- [ ] Redesign UI
-- [ ] Improve Form Handling & Validation
-- [ ] Add more functionalities
-  - Job Tracking Dashboard
-  - Chat/Message System
-  - Student Resource Bank (resume, cover letter, interview tips)
-
-
-<hr>
 
 # 1. Technology Overview
 1. MongoDB
@@ -59,3 +47,19 @@
 # 4. Case study
 While working on this project, I found handling of cookies or login sessions between React components and Node backend server very challenging. React uses states to update changes made in React DOM in the real DOM, and node server uses REST API cals such as GET, POST to handle sessions. In this project, I used a specific attribute of "user" collect, "status" to update React components. This needs to be further investigated to improve security.
 
+## Possible Improvement
+- Implement session properly
+- Reorganize component tree using Hooks
+- Redesign UI
+- Improve Form Handling & Validation
+- Add more functionalities
+  - Job Tracking Dashboard
+  - Chat/Message System
+  - Student Resource Bank (resume, cover letter, interview tips)
+
+# 5. Demo
+## Recruiter
+<img src="https://github.com/danlee0528/myBetterExperience/blob/f8a45fe23fcf3bc50a9edf593b37d42b43a5473f/recruiter-demo.gif?raw=true" style="width:100%;"/>
+
+## Student
+<img src="https://github.com/danlee0528/myBetterExperience/blob/f8a45fe23fcf3bc50a9edf593b37d42b43a5473f/student-demo.gif?raw=true" style="width:100%;"/>
