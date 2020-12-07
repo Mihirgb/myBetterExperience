@@ -43,9 +43,6 @@
   - Navigation State Update
   - Google Maps Search
   - Application Deadline & Document Validation
-  
-# 4. Case study
-While working on this project, I found handling of cookies or login sessions between React components and Node backend server very challenging. React uses states to update changes made in React DOM in the real DOM, and node server uses REST API calls such as GET, POST to handle sessions. In this project, I used a specific attribute of "user" collect, "status" to update React components. This needs to be further investigated to improve security.
 
 ## Possible Improvement
 - Implement session 
